@@ -92,43 +92,6 @@
     "baidu": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度云资源"
-    },
-    "ckzy": {
-        "api": "https://www.ckzy1.com",
-        "name": "CK资源"
-    },
-    "jkun": {
-        "api": "https://jkunzyapi.com/api.php/provide/vod",
-        "name": "jkun资源",
-        "detail": "https://heimuer.tv"
-    },
-    "bwzy": {
-        "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml/",
-        "name": "百万资源",
-        "detail": "https://api.bwzym3u8.com/"
-    },
-    "souav": {
-        "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml/",
-        "name": "souav资源",
-        "detail": "https://api.souavzy.vip"
-    },
-    "huangcang": {
-        "api": "https://hsckzy888.com",
-        "name": "黄色仓库"
-
-    },
-    "yutu": {
-        "api": "https://apiyutu.com/api.php/providedao/vod/at/xml",
-        "name": "玉兔资源",
-        "detail": "https://yutuzy10.com"
-    },
-    "subo": {
-        "api": "https://subocaiji.com/api.php/provide/vod",
-        "name": "速播资源"
-    },
-    "ukzy": {
-        "api": "https://api.ukuapi88.com/api.php/provide/vod",
-        "name": "U酷资源"
     }
   }
 }
